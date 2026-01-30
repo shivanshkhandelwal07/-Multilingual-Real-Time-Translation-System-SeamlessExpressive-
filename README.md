@@ -1,4 +1,3 @@
-# -Multilingual-Real-Time-Translation-System-SeamlessExpressive-
 ![](23-11_SEAMLESS_BlogHero_11.17.jpg)
 # Seamless Intro
 
